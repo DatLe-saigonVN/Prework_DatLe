@@ -22,7 +22,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='https://imgur.com/a/GRlZQN2' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src=[![Animation.gif](https://i.postimg.cc/MHq3NTq0/Animation.gif)](https://postimg.cc/ZBsLyJ90)' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ScreenToGif
@@ -33,7 +33,7 @@ GIF created with ScreenToGif
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+The video is pretty clear, there was not an issue to create such a simple app like this.
 
 ## License
 
